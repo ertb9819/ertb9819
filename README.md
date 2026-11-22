@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**ertb9819/ertb9819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a programmer who enjoys building things, experimenting with technologies, and figuring out how stuff works under the hood.
 
-Here are some ideas to get you started:
+I love working on personal projects, learning new things, and turning random ideas into actual code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I'm Into
+🎮 Game Engine Development – Building my own game engine in C++ with OpenGL.
+🕹️ Game Development – Creating games and experimenting with Unity and C#.
+🐍 Automation & Scripting – Using Python to build personal automation tools and life hacks.
+🔐 Cybersecurity – Exploring security, understanding vulnerabilities, and learning how systems can be made more secure.
+🛠️ Technologies & Tools
+
+Languages
+- C++
+- C#
+- Python
+
+Tools & Frameworks
+- OpenGL
+- Unity
+- Git & GitHub
+
+💡 Currently
+Developing my own C++ game engine.
+Experimenting with graphics programming and OpenGL.
+Exploring cybersecurity and learning something new every day.
+Working on a multiplayer survival horror game in Unity.
+
+⭐ Feel free to check out my repositories and follow along with my projects!
