@@ -11,12 +11,12 @@ I love working on personal projects, learning new things, and turning random ide
 🔐 Cybersecurity – Exploring security, understanding vulnerabilities, and learning how systems can be made more secure.
 🛠️ Technologies & Tools
 
-Languages
+Programming Languages:
 - C++
 - C#
 - Python
 
-Tools & Frameworks
+Tools & Frameworks:
 - OpenGL
 - Unity
 - Git & GitHub
